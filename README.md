@@ -4,18 +4,13 @@ Este repositório contém uma coleção de **20 exercícios introdutórios em C#
 
 ## 📌 Conteúdo
 
-1. **Cálculo de área** - Triângulo e círculo.
-2. **Operações matemáticas** - Soma, subtração, multiplicação e divisão.
-3. **Cálculo de salário** - Comissão sobre vendas.
-4. **Médias** - Aritmética e ponderada.
-5. **Comparação de valores** - Maior, menor e igualdade.
-6. **Intervalos numéricos** - Verificar se um número está dentro de um intervalo específico.
-7. **Cálculo de cópias** - Definir preços baseados na quantidade.
-8. **Classificação de idade** - Categorias de jogadores de futebol.
-9. **Ordenação de números** - Exibir valores em ordem crescente.
-10. **Verificação de números** - Par ou ímpar.
-11. **Conversão de temperatura** - Celsius para Fahrenheit e vice-versa.
-12. **Laços de repetição** - Exibir sequências numéricas com `for` e `while`.
+Exercicios localizado no arquivo .txt
+
+1. **Condicionais** - Exerc.: 3, 5, 9, 12 até o 17.
+2. **Operações matemáticas** - Exerc.: 1, 6, 1 e 18.
+3. **Estrtura de Repeticao** - Exerc.: 19 e 20.
+4. **Operações Básicas** - Exerc.: 2 e 7.
+5. **Repetições e Condicionais** - Exerc.: 4, 8 e 11.
 
 ## 🔧 Tecnologias Utilizadas
 
