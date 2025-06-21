@@ -1,0 +1,7 @@
+npm init
+-> test command: jest
+
+npm i --Save-dev jest
+
+npm tst ou npm test
+

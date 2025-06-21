@@ -1,100 +1,121 @@
-# Exercícios Básicos de C#
+# 💻 Repositório de Exercícios e Projetos
 
-Este repositório contém uma coleção de **20 exercícios introdutórios em C#**, cobrindo conceitos fundamentais da linguagem. Os exercícios incluem operações matemáticas, controle de fluxo, manipulação de variáveis e entrada/saída de dados.
+Este repositório contém diversos exercícios e projetos de programação com foco em **C#**, **SQL** e **Node.js**. O objetivo é oferecer material prático para estudo de lógica, estruturas de controle, arrays, manipulação de dados e testes unitários.
 
-## 📌 Conteúdo
+---
 
-Exercicios localizado no arquivo .txt
+## 📚 Seções
 
-1. **Condicionais** - Exerc.: 3, 5, 9, 12 até o 17.
-2. **Operações matemáticas** - Exerc.: 1, 6, 1 e 18.
-3. **Estrtura de Repeticao** - Exerc.: 19 e 20.
-4. **Operações Básicas** - Exerc.: 2 e 7.
-5. **Repetições e Condicionais** - Exerc.: 4, 8 e 11.
+- [🔹 Exercícios em C#](#-exercícios-em-c)
+- [🔸 Exercícios em SQL](#-exercícios-em-sql)
+- [🧪 Testes Unitários com Node.js](#-testes-unitários-com-nodejs)
 
-## 🔧 Tecnologias Utilizadas
+---
+
+## 🔹 Exercícios em C#
+
+### 1. Exercícios Básicos de C#
+
+Este conjunto contém **20 exercícios introdutórios**, abordando:
+
+- Operações matemáticas
+- Controle de fluxo
+- Entrada e saída de dados
+
+**Conteúdo por categoria:**
+
+1. **Condicionais** — Exercícios: 3, 5, 9, 12 até 17
+2. **Operações matemáticas** — Exercícios: 1, 6, 10, 18
+3. **Estrutura de repetição** — Exercícios: 19 e 20
+4. **Operações básicas** — Exercícios: 2 e 7
+5. **Repetições e condicionais** — Exercícios: 4, 8 e 11
+
+### 2. Exercícios de Arrays e Laços
+
+**10 exercícios práticos** com foco em vetores e laços, como:
+
+- Soma de pares
+- Média de ímpares
+- Substituição de negativos
+- Exibição invertida de valores
+
+### 3. Exercícios de Arrays e Estruturas de Controle
+
+**9 exercícios intermediários** com destaque para:
+
+- Processamento de dados de múltiplos elementos
+- Cálculo de notas e votos
+- Simulação de pesquisa populacional
+
+### Tecnologias e Recursos
 
 - Linguagem: **C#**
-- Entrada/Saída: `Console.ReadLine()` e `Console.WriteLine()`
+- Entrada/Saída: `Console.ReadLine()`, `Console.WriteLine()`
 - Estruturas condicionais: `if`, `else`, `switch`
-- Laços de repetição: `for`, `while`
-- Tipos de dados: `int`, `double`, `string`
-- Funções matemáticas: `Math.Max()`, `Math.Min()`, `Math.Abs()`
-
-## 📂 Organização
-
-- Cada exercício possui um código-fonte separado para facilitar a leitura e execução.
-- O código está formatado e documentado para melhor compreensão.
+- Laços: `for`, `while`, `foreach`
+- Arrays e listas: `int[]`, `double[]`, `List<T>`
+- Funções matemáticas: `Math.Pow()`, `Math.Max()`, `Math.Abs()`
 
 ---
 
-# Exercícios de Arrays e Laços em C#
+## 🔸 Exercícios em SQL
 
-Este repositório contém uma coleção de **10 exercícios práticos em C#**, focados na manipulação de arrays e laços de repetição. Os exercícios abordam leitura, processamento e exibição de dados armazenados em vetores.
+Coleção de exercícios resolvidos da plataforma **Beecrowd**, utilizando comandos SQL em um contexto realista de banco de dados.
 
-## 📌 Conteúdo
+### Exercícios
 
-Exercicios localizado no arquivo .txt
+1. **2604 - Menor que 10 ou Maior que 100**  
+   Exibir produtos com preço < 10 ou > 100
 
-1. **Valores negativos e média** - Exibir valores negativos e calcular a média dos menores que zero.
-2. **Quadrado dos números** - Armazenar números reais e calcular seus quadrados.
-3. **Soma de posições** - Somar os valores de duas posições escolhidas pelo usuário.
-4. **Ordem inversa** - Ler e exibir valores na ordem inversa.
-5. **Média e alunos abaixo dela** - Calcular a média das notas e contar quantos alunos ficaram abaixo.
-6. **Verificação de valores iguais** - Identificar e exibir valores duplicados em um array.
-7. **Substituição de negativos** - Atribuir zero aos elementos negativos de um array.
-8. **Soma de pares** - Somar apenas os números pares de um array.
-9. **Média de ímpares** - Calcular a média dos números ímpares de um array.
-10. **Substituição personalizada** - Substituir negativos por 99 e pares por 33 em um array.
+2. **2603 - Customer Address**  
+   Listar nomes e endereços de clientes de _Porto Alegre_
 
-## 🔧 Tecnologias Utilizadas
+3. **2602 - Basic Select**  
+   Exibir nomes de clientes cujo estado seja `'RS'`
 
-- Linguagem: **C#**
-- Entrada/Saída: `Console.ReadLine()` e `Console.WriteLine()`
-- Estruturas condicionais: `if`, `else`
-- Laços de repetição: `for`, `foreach`
-- Tipos de dados: `int`, `double`
-- Manipulação de arrays: declaração, iteração e alteração de valores
+### Tecnologias
 
-## 📂 Organização
-
-- Cada exercício possui um código-fonte separado, facilitando a compreensão e execução.
-- O código está bem estruturado e comentado para auxiliar no aprendizado.
+- Linguagem: **SQL**
+- Banco: **MySQL**
+- Comandos: `SELECT`, `WHERE`, `CREATE`, `INSERT`
 
 ---
 
-# Exercícios de Arrays e Estruturas de Controle em C#
+## 🧪 Testes Unitários com Node.js
 
-Este repositório contém uma coleção de **9 exercícios** em C#, abordando conceitos fundamentais como manipulação de arrays, laços de repetição e estruturas condicionais.
+Este projeto implementa **testes unitários em JavaScript** para uma calculadora simples.
 
-## 📌 Conteúdo
+### Funcionalidades
 
-1. **Cálculo do cubo** - Ler 15 números reais, calcular o cubo de cada um e armazenar os resultados em outro array.
-2. **Média de posições** - Ler 20 números e calcular a média dos valores nas posições de dois índices informados pelo usuário.
-3. **Ordem inversa** - Ler 99 valores inteiros e exibir em ordem inversa.
-4. **Média e maior nota** - Ler notas de 20 alunos, calcular a média geral e identificar a maior nota da turma.
-5. **Valores duplicados** - Verificar e exibir valores repetidos em um array de 20 posições.
-6. **Substituição de valores pares** - Ler 10 valores e substituir os pares por 99.
-7. **Cálculo de receitas** - Somar valores pagos em espécie, cheques e cartões em uma danceteria.
-8. **Votação presidencial** - Contabilizar votos de dois candidatos, votos brancos, nulos e determinar o vencedor.
-9. **Pesquisa populacional** - Processar dados de 800 habitantes e calcular médias e percentuais relacionados a idade e altura.
+- Soma
+- Subtração
+- Divisão
+- Multiplicação
 
-## 🔧 Tecnologias Utilizadas
+### Tecnologias
 
-- Linguagem: **C#**
-- Entrada/Saída: `Console.ReadLine()` e `Console.WriteLine()`
-- Estruturas condicionais: `if`, `else`, `switch`
-- Laços de repetição: `for`, `while`
-- Arrays e listas: `int[]`, `double[]`, `List<int>`
-- Funções matemáticas: `Math.Pow()`, `Math.Max()`, `Math.Min()`
+- **Node.js**
+- **Jest**
 
-## 📂 Organização
+### Execução
 
-- Cada exercício possui um código-fonte separado para facilitar a leitura e execução.
-- O código está bem documentado para melhor compreensão.
+```bash
+# Clone esse repositório
+# Acesse o diretório
+cd DevOps
+cd calculadora-teste
 
----
+# Instale as dependências
+npm install
 
-## 🚀 Objetivo
+# Execute os testes
+npm test
 
-Este repositório é ideal para quem deseja prática intermediária em **C#**, explorando arrays, estruturas condicionais e operações matemáticas.
+# Exemplo
+test("Testando soma", () => {
+  const esperado = 25;
+  const retorno = soma(15, 10);
+  expect(retorno).toBe(esperado);
+});
+
+```
